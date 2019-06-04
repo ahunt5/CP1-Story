@@ -9,3 +9,15 @@ Sameer: But this isn't a court.
 Miguel: Exactly.
 Sameer: Let's play Minecraft.
 SAMEER RUNS HOME TO PLAY MINECRAFT AND DITCHES CLASS.
+
+Sameer is a Minecraft gangster thug.
+
+Period|Time|Classroom|Class
+1|8:00-8:50|252|AP Psychology
+2|8:55-9:45|333|AP Spanish
+3|9:50-10:40|257|H English IV
+4|10:45-11:35|223|H Physics
+5|11:40-12:30|345|AP Calculus
+6|12:35-1:25|Lunch
+7|1:30-2:20|H Programming I
+8|2:25-3:15|H Art I
