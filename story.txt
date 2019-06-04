@@ -1,11 +1,18 @@
-Josh: Sameer why are you playing Minecraft illegally?
-Sameer: If this was a court you would have no evidence.
-Ben: This isn't a court.
-Sameer: If it was you wouldn't have any evidence.
-Miguel: We have three witnesses.
-Sameer: You have three biased witnesses.
-Josh: In a court witnesses need to say the truth and nothing but the truth.
-Sameer: But this isn't a court.
-Miguel: Exactly.
-Sameer: Let's play Minecraft.
-SAMEER RUNS HOME TO PLAY MINECRAFT AND DITCHES CLASS.
+I woke up in the morning
+I walked myself
+I went to school
+
+Period|Class|Classroom|Time
+1|AP Psychology|252|8:00-8:50
+2|AP Spanish|333|8:55-9:45
+3|H English IV|257|9:50-10:40
+4|H Physics|223|10:45-11:35
+5|AP Calculus AB|345|11:40-12:30
+6|Lunch|LR|12:35-1:25
+7|H Programming I|232|1:30-2:20
+8|H Art I|447|2:25-3:15
+
+I sat through school
+I came home from school
+I walked myself again
+I went to sleep
